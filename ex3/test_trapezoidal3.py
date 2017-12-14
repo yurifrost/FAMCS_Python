@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# Python 3.5.3
-
-
 def trapezoidal(f, a, b, n):
 	"""
 	Вычисляет приближенное значение интеграла с помощью формулы трапеций
